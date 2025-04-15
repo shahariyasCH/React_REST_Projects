@@ -1,8 +1,8 @@
-# 📚🍽️ Library & Recipe Demo Project
+#  Library & Recipe Demo Project
 
 Welcome to the **Library & Recipe Demo Project** – a full-stack web application that allows users to manage books and discover delicious recipes all in one place. This project demonstrates RESTful API integration, modern frontend development, and responsive design.
 
-## 🚀 Features
+##  Features
 
 - 📖 Add, edit, delete, and search books in your digital library
 - 🍲 Browse, create, and manage cooking recipes
@@ -11,15 +11,15 @@ Welcome to the **Library & Recipe Demo Project** – a full-stack web applicatio
 - 📱 Fully responsive and mobile-friendly interface
 - 🔗 REST API integration for seamless data handling
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 
-- **Frontend**: React.js / HTML / CSS / JavaScript
-- **Backend**: Python / Django / REST (based on your stack)
-- **Database**: MySQL / SQLite
-- **API**: RESTful APIs for Books and Recipes modules
+- Frontend: React.js / HTML / CSS / JavaScript
+- Backend: Python / Django / REST (based on your stack)
+- Database: MySQL / SQLite
+- API: RESTful APIs for Books and Recipes modules
 
-## 📦 Installation
+##  Installation
 
 ```bash
 # Clone the repo
